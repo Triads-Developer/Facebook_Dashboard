@@ -1,9 +1,8 @@
 ## Transforming Election Data into Actionable and Dynamic Dashboards
 
-Introduction
 Social media has become an essential part of political campaigns and can influence the political discourse. 
 However, monitoring and analyzing vast amounts of data is challenging. 
-In this project the <a href="https://triads.wustl.edu">  TRIADS </a> development team takes existing CrowdTangle election data and transforms it into dynamic dashboards.  
+In this project the <a href="https://triads.wustl.edu">  TRIADS </a> development team takes existing  <a href="(https://help.crowdtangle.com/en/articles/2346958-using-crowdtangle-for-elections-coverage)"> CrowdTangle</a> election data and transforms it into dynamic dashboards using metabase.  
 
 # CrowdTangle: Social Media Analytics Tool
 
