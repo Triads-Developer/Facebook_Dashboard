@@ -8,7 +8,7 @@ In this project the <a href="https://triads.wustl.edu">  TRIADS </a> development
 
 <a href="https://help.crowdtangle.com/en/articles/2346958-using-crowdtangle-for-elections-coverage">CrowdTangle </a> is a social media analytics tool that provides real-time monitoring and analysis of public content on social media platforms like Facebook, Instagram, Twitter, and Reddit. <a href="https://polisci.wustl.edu/people/jacob-montgomery"> Jacob Montgomery </a>, a political science professor at Washington University in St. Louis, uses CrowdTangle to track and analyze social media activity related to election campaigns, candidates, and issues.
 
-# Dashboash - Business Intelligence and Analytics Tool
+# Analytics Dashboard 
 
 The TRIADS development team has assisted Professor Montgomery turn the data he collected through CrowdTangle into dynamic dashboards. By using 
 <a href="https://www.metabase.com">Metabase</a>,  Professor Montgomery can visualize his data and gain deeper insights into the electoral landscape.
