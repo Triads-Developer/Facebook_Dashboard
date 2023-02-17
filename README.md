@@ -5,7 +5,7 @@ Social media has become an essential part of political campaigns and can influen
 However, monitoring and analyzing vast amounts of data is challenging. 
 In this project the <a href="https://triads.wustl.edu">  TRIADS </a> development team takes existing CrowdTangle election data and transforms it into dynamic dashboards.  
 
-#CrowdTangle: Social Media Analytics Tool
+# CrowdTangle: Social Media Analytics Tool
 
 CrowdTangle is a social media analytics tool that provides real-time monitoring and analysis of public content on social media platforms like Facebook, Instagram, Twitter, and Reddit. Jacob Montgomery, a political science professor at Washington University in St. Louis, uses CrowdTangle to track and analyze social media activity related to election campaigns, candidates, and issues.
 
