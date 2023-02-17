@@ -15,9 +15,3 @@ The TRIADS development team has assisted Professor Montgomery turn the data he c
 These custom dashboards allow for tracking essential metrics, including engagement levels, sentiment, and other relevant data, which facilitates a more comprehensive analysis of the electoral data. 
 
 
-
-
-
-
-About the Author
-This Github Readme file was created by <a href="https://insideartsci.wustl.edu/people/jessie-walker"> Jessie Walker </a> cutoff: 2021-09. Current date: 2023-02-16.
