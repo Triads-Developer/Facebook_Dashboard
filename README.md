@@ -1,4 +1,4 @@
-### Transforming Election Data into Actionable and Dynamic Dashboards
+## Transforming Election Data into Actionable and Dynamic Dashboards
 
 Introduction
 Social media has become an essential part of political campaigns and can influence the political discourse. 
