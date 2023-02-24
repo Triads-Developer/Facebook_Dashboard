@@ -28,6 +28,6 @@ CrowdTangle provides measures for different types of social media reactions, inc
 
 Using Metabase and CrowdTangle, it is possible to create a map that shows the total number of reactions by state and the specific type of reaction (e.g. anger, haha, wow). By collecting social media reaction data through the CrowdTangle API and formatting it into a table, it can be used as the source for a Metabase question. When visualized as a map, each state is grouped together and represented by the total number of reactions for that state, while different types of reactions are represented by different colors or shading. This can provide valuable insights into the sentiment and engagement of social media users across different regions.<table>
   <tr>    
-    <td><img src="/states.png" alt="Image 3"><br>Label for Image 2</td>
+    <td><img src="/states.png" alt="Image 3"></td>
   </tr>
 </table>
