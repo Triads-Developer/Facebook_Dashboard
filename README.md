@@ -14,5 +14,6 @@ The TRIADS development team has assisted Professor Montgomery turn the data he c
 <a href="https://www.metabase.com">Metabase</a>,  Professor Montgomery can visualize his data and gain deeper insights into the electoral landscape.
 These custom dashboards allow for tracking essential metrics, including engagement levels, sentiment, and other relevant data, which facilitates a more comprehensive analysis of the electoral data. 
 
-<iframe src="https://example.com" width="600" height="400"></iframe>
+Check out my website [here](https://example.com)!
+
 
