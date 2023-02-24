@@ -1,3 +1,16 @@
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+</style>
+
 # Transforming Election Data into Actionable and Dynamic Dashboards
 
 Social media has become an essential part of political campaigns and can influence the political discourse. 
