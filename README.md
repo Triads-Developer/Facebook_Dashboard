@@ -15,3 +15,4 @@ The TRIADS development team has assisted Professor Montgomery turn the data he c
 These custom dashboards allow for tracking essential metrics, including engagement levels, sentiment, and other relevant data, which facilitates a more comprehensive analysis of the electoral data. 
 
  To view an example [dashboard] (http://artscidev.wustl.edu:3001/public/dashboard/34823612-58d2-49d4-8301-42e240b10247) for this project.
+![Alt Text](/graph1.png)
