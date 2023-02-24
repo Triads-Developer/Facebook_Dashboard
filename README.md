@@ -1,15 +1,3 @@
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-table td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: center;
-}
-</style>
 
 # Transforming Election Data into Actionable and Dynamic Dashboards
 
@@ -27,10 +15,11 @@ The TRIADS development team has assisted Professor Montgomery turn the data he c
 <a href="https://www.metabase.com">Metabase</a>,  Professor Montgomery can visualize his data and gain deeper insights into the electoral landscape.
 These custom dashboards allow for tracking essential metrics, including engagement levels, sentiment, and other relevant data, which facilitates a more comprehensive analysis of the electoral data. 
 
+
 <table>
   <tr>
-    <td><img src="/graph1.png" alt="Image 1"></td>
-    <td><img src="/graph2.png" alt="Image 2"></td>
-    <td><img src="/states.png" alt="Image 3"></td>
+    <td><img src="/graph1.png" alt="Image 1"><br>Label for Image 1</td>
+    <td><img src="/states.png" alt="Image 3"><br>Label for Image 2</td>
+   <td><img src="/graph2.png" alt="Image 2"><br>Label for Image 2</td>
   </tr>
 </table>
